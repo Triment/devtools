@@ -1,0 +1,23 @@
+{
+  "name": "triment-tools",
+  "version": "1.0.0",
+  "description": "Triment's dev tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Triment/devtools.git"
+  },
+  "keywords": [
+    "dev",
+    "tools"
+  ],
+  "author": "triment",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Triment/devtools/issues"
+  },
+  "homepage": "https://github.com/Triment/devtools#readme"
+}
